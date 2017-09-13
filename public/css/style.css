@@ -1,0 +1,23 @@
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+.logo{
+    font-family: 'Kaushan Script', cursive;
+    color: darkorange;
+}
+.btn-outline-success{
+    border-color: darkorange;
+    color:#ffffcc;
+}
+.btn-outline-success:hover{
+    border-color: #ffffcc;
+    background-color: darkorange;
+    color: #ffffcc;
+}
+.approval-form{
+    margin-bottom: 20px;
+}
