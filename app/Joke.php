@@ -10,6 +10,7 @@ class Joke extends Model
     {
         $count = static::where('approved', '=', 0)->count();
         return $count;
+        //this is a change
     }
 
     public static function countJokes()
